@@ -7,14 +7,14 @@ body {
 }
 
 #container {
-    width: 1024px;
+    width: 960px;
     margin: 0 auto;
 }
 
 p {
     text-align: center;
     font-size: 18px;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
 }
 
 header {
@@ -30,11 +30,11 @@ nav {
 }
 
 article {
-    width: 513px;
-    height: 200px;
+    width: 498px;
+    height: 198px;
     background-color: #757575;
     margin: 30px 0 0 11px;
-    padding: 5px 15px 0 0;
+    padding: 5px 0 0 0;
     color:  #eaeaea;
 }
 
@@ -43,25 +43,25 @@ article {
     color: #757575;
     text-align: center;
     padding: 18px;
-    margin: 0 8px 10px 20px;
+    margin: 0 15px 10px 15px;
     display: block;
 }
 
 #sect-art {
-    width: 550px;
-    height: 288px;
-    margin: 10px 5px 0 0;
+    width: 520px;
+    height: 284px;
+    margin: 10px 0 0 0;
     padding: 20px 0 0 0;
     color: #757575;
     float: left;
 }
 
 #aside-box {
-    width: 450px;
-    height: 288px;
+    width: 420px;
+    height: 284px;
     color:  #757575;
     float: left;
-    margin: 10px 0 20px 18px;
+    margin: 10px 0 20px 20px;
     padding: 20px 0 0 0;
 }
 
