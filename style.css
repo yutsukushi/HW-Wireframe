@@ -13,57 +13,61 @@ body {
 
 p {
     text-align: center;
-    font-size: 24px;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 header {
     margin: 0;
-    padding: 10px;
+    padding: 20px;
     color: #757575;
 }
 
 nav {
     margin: 10px 0 10px 0;
-    padding: 10px;
+    padding: 20px;
     color: #757575;
 }
 
 article {
-    width: 300px;
+    width: 513px;
     height: 200px;
     background-color: #757575;
-    margin: 60px 0 0 11px;
+    margin: 30px 0 0 11px;
+    padding: 5px 15px 0 0;
     color:  #eaeaea;
-    border: solid red;
 }
 
 .lgrey-box {
     background-color: #eaeaea;
     color: #757575;
     text-align: center;
-    padding: 10px;
-    margin: 10px 20px 10px 20px;
+    padding: 18px;
+    margin: 0 8px 10px 20px;
+    display: block;
 }
 
 #sect-art {
     width: 550px;
-    height: 330px;
+    height: 288px;
     margin: 10px 5px 0 0;
+    padding: 20px 0 0 0;
     color: #757575;
     float: left;
 }
 
 #aside-box {
-    width: 430px;
-    height: 330px;
+    width: 450px;
+    height: 288px;
     color:  #757575;
     float: left;
-    margin: 10px 0 20px 38px;
+    margin: 10px 0 20px 18px;
+    padding: 20px 0 0 0;
 }
 
 footer {
     margin: 10px 0 10px 0;
-    padding: 10px;
+    padding: 20px;
     color: #757575;
     clear: both;
 }
