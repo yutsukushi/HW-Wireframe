@@ -1,9 +1,9 @@
 body {
-    background-color: #757575;
+    background-color: #777;
 }
 
 .grey {
-    background-color: #eaeaea;
+    background-color: #ebebeb;
 }
 
 #container {
@@ -20,27 +20,27 @@ p {
 header {
     margin: 0;
     padding: 20px;
-    color: #757575;
+    color: #777;
 }
 
 nav {
     margin: 10px 0 10px 0;
     padding: 20px;
-    color: #757575;
+    color: #777;
 }
 
 article {
     width: 498px;
     height: 198px;
-    background-color: #757575;
+    background-color: #777;
     margin: 30px 0 0 11px;
     padding: 5px 0 0 0;
-    color:  #eaeaea;
+    color:  #ebebeb;
 }
 
 .lgrey-box {
-    background-color: #eaeaea;
-    color: #757575;
+    background-color: #ebebeb;
+    color: #777;
     text-align: center;
     padding: 18px;
     margin: 0 15px 10px 15px;
@@ -52,15 +52,16 @@ article {
     height: 284px;
     margin: 10px 0 0 0;
     padding: 20px 0 0 0;
-    color: #757575;
+    color: #777;
     float: left;
 }
 
 #aside-box {
     width: 420px;
     height: 284px;
-    color:  #757575;
-    float: left;
+    color:  #777;
+    display: block;
+    float: right;
     margin: 10px 0 20px 20px;
     padding: 20px 0 0 0;
 }
@@ -68,6 +69,6 @@ article {
 footer {
     margin: 10px 0 10px 0;
     padding: 20px;
-    color: #757575;
+    color: #777;
     clear: both;
 }
